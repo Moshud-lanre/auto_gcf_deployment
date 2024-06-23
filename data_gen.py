@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-BUCKET = "alt-orders-demo"
+BUCKET = "altorder_demo"
 
 
 def generate_customer_orders(num_orders=1000):
